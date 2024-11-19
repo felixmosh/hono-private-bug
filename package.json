@@ -1,0 +1,12 @@
+{
+  "name": "hono-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "felixmosh",
+  "license": "MIT",
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "hono": "^4.6.10"
+  }
+}
